@@ -72,7 +72,7 @@ double Neuron::getWeight(int i) {
 	}
 }
 
-int main() {
+int main_() {
 	
 	Neuron neuron(1, 1, 1);
 
